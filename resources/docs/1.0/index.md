@@ -1,0 +1,6 @@
+- ## Get Started
+    - [Overview](/{{route}}/{{version}}/overview)
+    - [Environment Setup](/{{route}}/{{version}}/environment-setup)
+    - [Android Configuration](/{{route}}/{{version}}/android-configuration)
+    - [Run & Build](/{{route}}/{{version}}/run-build)
+    - [Faqs](/{{route}}/{{version}}/faqs)
