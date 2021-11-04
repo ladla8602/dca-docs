@@ -1,6 +1,8 @@
 - ## Get Started
-    - [Overview](/{{route}}/{{version}}/overview)
-    - [Environment Setup](/{{route}}/{{version}}/environment-setup)
-    - [Android Configuration](/{{route}}/{{version}}/android-configuration)
-    - [Run & Build](/{{route}}/{{version}}/run-build)
-    - [Faqs](/{{route}}/{{version}}/faqs)
+    - [Overview](/docs/{{route}}/{{version}}/overview)
+    - [Environment Setup](/docs/{{route}}/{{version}}/environment-setup)
+        - [Flutter Setup - Windows](/docs/{{route}}/{{version}}/flutter-setup-windows)
+    - [Android Configuration](/docs/{{route}}/{{version}}/android-configuration)
+    - [Project Setup](/docs/{{route}}/{{version}}/project-setup)
+    - [Run & Build](/docs/{{route}}/{{version}}/run-build)
+    - [Faqs](/docs/{{route}}/{{version}}/faqs)
