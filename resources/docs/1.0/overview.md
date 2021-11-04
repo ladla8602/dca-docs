@@ -19,9 +19,9 @@ The awesome looking app can be used for both Android and iOS platforms. It is op
 
 <a name="section-2"></a>
 ## Features
-Start your project with this starter code base which eventually reduces your development life cycle and save your 70+ hours in coding.
+Start your project with this starter code base which eventually reduces your development life cycle and save your 600+ hours in coding.
 
-The template contains 12+ screens, all of which follow material design guidelines!
+The template contains 36+ screens, all of which follow material design guidelines!
 
 Doctor's Digital Flutter app features:
 
@@ -35,4 +35,4 @@ Doctor's Digital Flutter app features:
 
 - Monthly updates!
 
-- 24*7 customer support - mail us at [sales-support@soloarc.store](mailto:sales-support@soloarc.store)
+- 24*7 customer support - mail us at [sales-support@soloarc.net](mailto:sales-support@soloarc.net)
