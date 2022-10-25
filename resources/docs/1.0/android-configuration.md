@@ -22,8 +22,8 @@ Must rename app icon <code>ic_launcher</code> and notification icon <code>ic_not
 <p>1 - Open <code>/android/app/build.gradle</code> and change the package name</p>
 <pre data-lang="json" class=" language-json"><code class=" language-json">    defaultConfig {
         applicationId "&lt;REPLACE WITH YOUR PACKAGE NAME&gt;" // this is the package name
-        minSdkVersion 19
-        targetSdkVersion 29
+        minSdkVersion 21
+        targetSdkVersion 33
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"

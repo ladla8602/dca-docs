@@ -9,9 +9,9 @@
 <a name="section-1"></a>
 ## Introduction
 
-Doctor's Digital Flutter App - This project cantains flutter source code for Digital Clinic UI kit.
+Our Flutter Apps - This project cantains flutter source code.
 
-You can use this project to develop elegant. User can book appointment of doctor, find lab and also find doctor by specialities with Digital Clinic app template. Digital Clinic developed using Flutter. That means that template is compatible for both Android and iOS. In this app Animation added, clean code, well formated, easy to understand and much more. I don’t have word for describe. So, please install our android demo app and check all features and design by your self. We are building more features and screen in future so be sure to get app updates by pusrchasing this template.
+You can use this project to develop elegant. This template is compatible for both Android and iOS. In this app Animation added, clean code, well formated, easy to understand and much more. I don’t have word for describe. So, please install our android demo app and check all features and design by your self. We are building more features and screen in future so be sure to get app updates by pusrchasing this template.
 
 The awesome looking app can be used for both Android and iOS platforms. It is optimized coded and easy to customize.
 
@@ -21,9 +21,9 @@ The awesome looking app can be used for both Android and iOS platforms. It is op
 ## Features
 Start your project with this starter code base which eventually reduces your development life cycle and save your 600+ hours in coding.
 
-The template contains 36+ screens, all of which follow material design guidelines!
+The template contains many screens, all of which follow material design guidelines!
 
-Doctor's Digital Flutter app features:
+Our Flutter app features:
 
 - Clean code with individual modules
 
@@ -35,4 +35,4 @@ Doctor's Digital Flutter app features:
 
 - Monthly updates!
 
-- 24*7 customer support - mail us at [sales-support@soloarc.net](mailto:sales-support@soloarc.net)
+- 24*7 customer support - mail us at [contact@soloarc.net](mailto:contact@soloarc.net)

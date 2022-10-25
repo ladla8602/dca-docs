@@ -8,7 +8,7 @@ In order to get started with Flutter, we have to install some software on your l
 
 <strong>See this section to install required softwares:</strong><br />
 
-[Flutter Setup - Windows](/docs/{{route}}/{{version}}/flutter-setup-windows)
+[Flutter Setup - Windows](/docs/{{version}}/flutter-setup-windows)
 
 
 ##Use Flutter Doctor
@@ -30,6 +30,3 @@ This will upgrade all packages to the latest version, or you can update individu
 
 It's good to know the concept of Pub Package Manager well in advance in order to understand the Flutter project better.
 
-##Project Structure
-See the project directory Structure
-<img src="https://soloarc.store/public/assets/project-struct.png">
